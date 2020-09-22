@@ -1,2 +1,2 @@
-# sample-tf
+# Damn Vulnerable terraform project
 Example Terraform
