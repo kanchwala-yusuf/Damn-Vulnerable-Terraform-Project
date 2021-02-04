@@ -1,2 +1,2 @@
 # sample-tf
-Example of a vulnerable terraform file
+Example of a vulnerable terraform project
