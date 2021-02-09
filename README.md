@@ -1,2 +1,2 @@
 # Damn Vulnerable Terraform Project
-Example of a damn vulnerable terraform project
+Example of a damn vulnerable terraform project in aws
